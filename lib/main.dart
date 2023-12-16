@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:wisata_zoopedia/models/zoo.dart';
 import 'package:wisata_zoopedia/screens/detail_screens.dart';
+import 'package:wisata_zoopedia/screens/home_screens.dart';
 
 void main() {
   runApp(const MyApp());
@@ -20,6 +21,7 @@ class MyApp extends StatelessWidget {
         useMaterial3: true,
       ),
       // home: DetailScreen(),
+      home: HomeScreen(),
     );
   }
 }

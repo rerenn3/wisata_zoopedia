@@ -161,7 +161,7 @@ class _DetailScreenState extends State<DetailScreen> {
                       const SizedBox(
                         width: 70,
                         child: Text(
-                          'Tipe',
+                          'Luas',
                           style: TextStyle(
                             fontWeight: FontWeight.bold,
                           ),

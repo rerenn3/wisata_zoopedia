@@ -9,7 +9,7 @@ var zooList = [
         'Taman Wisata Kebun Binatang Safari Indonesia adalah salah satu destinasi wisata unggulan di Bogor, Jawa Barat. Dengan koleksi hewan yang beragam dan atraksi menarik, tempat ini menawarkan pengalaman menyenangkan untuk semua usia. Dapatkan kesempatan untuk melihat hewan-hewan liar dari dekat dan nikmati berbagai kegiatan seru di taman ini.',
     dibangun: 'Tahun 1986',
     luas: '170 hektar',
-    imageAsset: 'images/Safari.jpeg',
+    imageAsset: 'images/Safari.jpg',
     imageUrls: [
       'https://img.harianjogja.com/posts/2023/12/10/1157755/wisata_puncak_-_taman_safari_indonesia_1671529719.jpg',
 
@@ -23,7 +23,7 @@ var zooList = [
     'Taman Margasatwa Ragunan adalah sebuah kebun binatang yang terletak di Jakarta, Indonesia. Kebun binatang ini memiliki luas sekitar 140 hektar dan menjadi rumah bagi beragam spesies hewan, termasuk satwa langka dan dilindungi. Taman Margasatwa Ragunan juga menyediakan berbagai fasilitas dan kegiatan edukasi untuk pengunjung.',
     dibangun: 'Tahun 1864',
     luas: '140 hektar',
-    imageAsset: 'images/Ragunan.jpeg',
+    imageAsset: 'images/Ragunan.jpg',
     imageUrls: [
       'https://statik.tempo.co/data/2021/01/03/id_991679/991679_720.jpg',
 
@@ -37,7 +37,7 @@ var zooList = [
     'Taman Wisata Kebun Binatang Safari Indonesia adalah salah satu destinasi wisata unggulan di Bogor, Jawa Barat. Dengan koleksi hewan yang beragam dan atraksi menarik, tempat ini menawarkan pengalaman menyenangkan untuk semua usia. Dapatkan kesempatan untuk melihat hewan-hewan liar dari dekat dan nikmati berbagai kegiatan seru di taman ini.',
     dibangun: 'Tahun 1986',
     luas: '170 hektar',
-    imageAsset: 'images/Safari.jpeg',
+    imageAsset: 'images/Safari.jpg',
     imageUrls: [
       'https://img.harianjogja.com/posts/2023/12/10/1157755/wisata_puncak_-_taman_safari_indonesia_1671529719.jpg',
 
@@ -51,7 +51,7 @@ var zooList = [
     'Taman Wisata Kebun Binatang Safari Indonesia adalah salah satu destinasi wisata unggulan di Bogor, Jawa Barat. Dengan koleksi hewan yang beragam dan atraksi menarik, tempat ini menawarkan pengalaman menyenangkan untuk semua usia. Dapatkan kesempatan untuk melihat hewan-hewan liar dari dekat dan nikmati berbagai kegiatan seru di taman ini.',
     dibangun: 'Tahun 1986',
     luas: '170 hektar',
-    imageAsset: 'images/Safari.jpeg',
+    imageAsset: 'images/Safari.jpg',
     imageUrls: [
       'https://img.harianjogja.com/posts/2023/12/10/1157755/wisata_puncak_-_taman_safari_indonesia_1671529719.jpg',
 
@@ -65,7 +65,7 @@ var zooList = [
     'Taman Wisata Kebun Binatang Safari Indonesia adalah salah satu destinasi wisata unggulan di Bogor, Jawa Barat. Dengan koleksi hewan yang beragam dan atraksi menarik, tempat ini menawarkan pengalaman menyenangkan untuk semua usia. Dapatkan kesempatan untuk melihat hewan-hewan liar dari dekat dan nikmati berbagai kegiatan seru di taman ini.',
     dibangun: 'Tahun 1986',
     luas: '170 hektar',
-    imageAsset: 'images/Safari.jpeg',
+    imageAsset: 'images/Safari.jpg',
     imageUrls: [
       'https://img.harianjogja.com/posts/2023/12/10/1157755/wisata_puncak_-_taman_safari_indonesia_1671529719.jpg',
 
@@ -79,7 +79,7 @@ var zooList = [
     'Taman Wisata Kebun Binatang Safari Indonesia adalah salah satu destinasi wisata unggulan di Bogor, Jawa Barat. Dengan koleksi hewan yang beragam dan atraksi menarik, tempat ini menawarkan pengalaman menyenangkan untuk semua usia. Dapatkan kesempatan untuk melihat hewan-hewan liar dari dekat dan nikmati berbagai kegiatan seru di taman ini.',
     dibangun: 'Tahun 1986',
     luas: '170 hektar',
-    imageAsset: 'images/Safari.jpeg',
+    imageAsset: 'images/Safari.jpg',
     imageUrls: [
       'https://img.harianjogja.com/posts/2023/12/10/1157755/wisata_puncak_-_taman_safari_indonesia_1671529719.jpg',
 
@@ -93,7 +93,7 @@ var zooList = [
     'Taman Wisata Kebun Binatang Safari Indonesia adalah salah satu destinasi wisata unggulan di Bogor, Jawa Barat. Dengan koleksi hewan yang beragam dan atraksi menarik, tempat ini menawarkan pengalaman menyenangkan untuk semua usia. Dapatkan kesempatan untuk melihat hewan-hewan liar dari dekat dan nikmati berbagai kegiatan seru di taman ini.',
     dibangun: 'Tahun 1986',
     luas: '170 hektar',
-    imageAsset: 'images/Safari.jpeg',
+    imageAsset: 'images/Safari.jpg',
     imageUrls: [
       'https://img.harianjogja.com/posts/2023/12/10/1157755/wisata_puncak_-_taman_safari_indonesia_1671529719.jpg',
 
@@ -107,7 +107,7 @@ var zooList = [
     'Taman Wisata Kebun Binatang Safari Indonesia adalah salah satu destinasi wisata unggulan di Bogor, Jawa Barat. Dengan koleksi hewan yang beragam dan atraksi menarik, tempat ini menawarkan pengalaman menyenangkan untuk semua usia. Dapatkan kesempatan untuk melihat hewan-hewan liar dari dekat dan nikmati berbagai kegiatan seru di taman ini.',
     dibangun: 'Tahun 1986',
     luas: '170 hektar',
-    imageAsset: 'images/Safari.jpeg',
+    imageAsset: 'images/Safari.jpg',
     imageUrls: [
       'https://img.harianjogja.com/posts/2023/12/10/1157755/wisata_puncak_-_taman_safari_indonesia_1671529719.jpg',
 
