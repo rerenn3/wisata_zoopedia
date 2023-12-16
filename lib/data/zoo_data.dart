@@ -3,18 +3,16 @@ import 'package:wisata_zoopedia/models/zoo.dart';
 
 var zooList = [
   Zoo(
-    nama: 'Candi Borobudur',
-    lokasi: 'Magelang, Jawa Tengah',
+    nama: 'Taman Wisata Safari Zoo',
+    lokasi: 'Bogor, Jawa Barat',
     deskripsi:
-        'Candi Borobudur, candi Buddha terbesar di dunia, dibangun oleh penganut Buddha Mahayana pada abad ke-9 di Jawa Tengah, Indonesia. Dengan enam teras dan tiga pelataran melingkar yang dihiasi relief dan arca Buddha, Borobudur adalah tempat suci untuk memuliakan Buddha dan panduan ziarah menuju pencerahan. Meskipun ditinggalkan pada abad ke-10, candi ini ditemukan kembali pada tahun 1814 dan setelah pemugaran besar-besaran, diakui sebagai Situs Warisan Dunia oleh UNESCO.',
-    dibangun: 'Abad ke-9',
-    luas: 'Candi Buddha',
-    imageAsset: 'images/borobudur.jpeg',
+        'Taman Wisata Kebun Binatang Safari Indonesia adalah salah satu destinasi wisata unggulan di Bogor, Jawa Barat. Dengan koleksi hewan yang beragam dan atraksi menarik, tempat ini menawarkan pengalaman menyenangkan untuk semua usia. Dapatkan kesempatan untuk melihat hewan-hewan liar dari dekat dan nikmati berbagai kegiatan seru di taman ini.',
+    dibangun: 'Tahun 1986',
+    luas: '170 hektar',
+    imageAsset: 'images/Safari.jpeg',
     imageUrls: [
-      'https://media-cdn.tripadvisor.com/media/photo-o/11/cd/4f/71/borobudur-and-the-sky.jpg',
-      'https://media-cdn.tripadvisor.com/media/photo-o/11/cd/5d/36/borobudur-airial-view.jpg',
-      'https://media-cdn.tripadvisor.com/media/photo-o/11/cd/4d/c7/borobudur-and-the-sky.jpg',
-      'https://media-cdn.tripadvisor.com/media/photo-o/11/cd/47/0e/borobudur-sunset-moment.jpg',
+      'https://img.harianjogja.com/posts/2023/12/10/1157755/wisata_puncak_-_taman_safari_indonesia_1671529719.jpg',
+
     ],
     isFavorite: false,
   ),
