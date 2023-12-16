@@ -7,9 +7,8 @@ import 'package:flutter/material.dart';
 import '../models/zoo.dart';
 
 class DetailScreen extends StatefulWidget {
-  final Zoo zoo;
-
-  DetailScreen({Key? key, required this.zoo}) : super(key: key);
+  Zoo zoo;
+  DetailScreen({super.key, required this.zoo});
 
   @override
   State<DetailScreen> createState() => _DetailScreenState();
